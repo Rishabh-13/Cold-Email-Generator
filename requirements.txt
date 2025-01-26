@@ -5,3 +5,4 @@ langchain-core
 beautifulsoup4
 streamlit
 pydantic-settings
+pydantic==1.10.2
