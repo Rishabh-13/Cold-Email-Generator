@@ -6,7 +6,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - Kapsun Overseas is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Rishabh Gupta) from Kapsun Overseas is going to reach out to Nike via a cold email.
 
-![img.png](imgs/img.png)
+![img.png](imgs/img.jpeg)
 
 ## Architecture Diagram
 ![img.png](imgs/architecture.png)
