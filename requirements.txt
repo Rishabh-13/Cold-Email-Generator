@@ -1,8 +1,12 @@
 langchain-groq
-chromadb==0.3.26
+chromadb
 langchain-community 
 langchain-core
 beautifulsoup4
 streamlit
 pydantic-settings
-pydantic==1.10.2
+pydantic
+cython
+PyYAML
+setuptools
+wheel
