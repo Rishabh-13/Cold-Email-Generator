@@ -1,4 +1,5 @@
-pip install langchain-groq
-pip install chromadb
-pip install langchain-community langchain-core
-pip install beautifulsoup4
+langchain-groq
+chromadb
+langchain-community 
+langchain-core
+beautifulsoup4
