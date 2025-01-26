@@ -1,5 +1,5 @@
 langchain-groq
-chromadb
+chromadb==0.3.26
 langchain-community 
 langchain-core
 beautifulsoup4
