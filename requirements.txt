@@ -1,8 +1,0 @@
-langchain-groq
-chromadb==0.3.26
-langchain-community 
-langchain-core
-beautifulsoup4
-streamlit
-pydantic-settings
-pydantic==1.10.2
