@@ -6,7 +6,3 @@ beautifulsoup4
 streamlit
 pydantic-settings
 pydantic==1.10.2
-cython
-PyYAML
-setuptools
-wheel
