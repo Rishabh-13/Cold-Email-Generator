@@ -23,6 +23,12 @@ _(Note: Since it's hosted on Render's free tier, it may take some time to load i
 
 1. Get an API key from **[Groq](https://console.groq.com/keys)**. Inside `app/.env`, update the value of `GROQ_API_KEY` with the API key you created.  
 
-2. Install dependencies:  
-   ```sh
-   pip install -r requirements.txt
+2. To get started, first install the dependencies using:
+    ```commandline
+     pip install -r requirements.txt
+    ```
+   
+3. Run the streamlit app:
+   ```commandline
+   streamlit run app/main.py
+   ```
